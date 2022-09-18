@@ -1,0 +1,10 @@
+[A]
+a* algorithm: 
+algorithm: 3
+analysis: 
+[B]
+b+ tree: 4, 10
+[D]
+doubly linked list: 10
+[T]
+tree traversal: 
